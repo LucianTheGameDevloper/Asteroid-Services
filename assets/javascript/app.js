@@ -10,7 +10,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['UD Cheats', 'Trusted Owners', 'Been In Copy Creating Copys Since 2022', 'Free Leaks', 'Best 2024 Gorilla Tag QMODS', "i know where you live :)", "Please Boost The Discord", "Buy Our Cheats", "Leaks", "Cracks", "And More :)"];
+  brandDescription = ['UD Cheats', 'Trusted Owners', 'Been In Copy Community Since 2022', 'Free Leaks', 'Best 2024 Gorilla Tag QMODS', "i know where you live :)", "Please Boost The Discord", "Buy Our Cheats", "Leaks", "Cracks", "And More :)"];
   UpcomingProjects = ['Watch Mod Menu [FREE]', 'Fortnite Spoofer [FREE]', 'Fortnite Cheat [PAID]', 'CS2 Cheat [PAID]', "EXTERNAL Gorilla Tag [PAID?]" ];
 
   displayUpcomingProjects() {
